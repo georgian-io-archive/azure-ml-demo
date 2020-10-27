@@ -45,7 +45,7 @@ Click==7.0
 cloudpickle==1.2.2
 configparser==3.7.4
 contextlib2==0.6.0.post1
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.14
 decorator==4.4.1
